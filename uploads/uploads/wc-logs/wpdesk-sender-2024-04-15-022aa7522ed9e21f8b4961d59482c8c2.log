@@ -1,0 +1,2 @@
+2024-04-15T00:00:32+00:00 DEBUG Sender payload: {"click_action":"no","url":"https:\/\/mytestsite86.ru","localhost":"no","source":{"plugin":"flexible-checkout-fieldsphp","ctx":"notice"}}
+2024-04-15T00:00:33+00:00 DEBUG Sender response: {"headers":[],"body":"","response":{"code":false,"message":false},"cookies":[],"http_response":null}

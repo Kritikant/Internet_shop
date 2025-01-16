@@ -1,0 +1,275 @@
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-04 09:25:11
+Wordpress version 6.5; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15661&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.5 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"ALEXANDR","payerLastName":"SALDAEV","postAddress":"\u0420\u043e\u0441\u0441\u0438\u044f, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430, 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [clientId] => 9e90fae22816303384d4e0c94a70e4c7
+    [orderNumber] => 15661_1712222711
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-07 11:07:44
+Wordpress version 6.5; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15665&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.5 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"ALEXANDR","payerLastName":"SALDAEV","postAddress":"\u0420\u043e\u0441\u0441\u0438\u044f, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430, 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [clientId] => 9e90fae22816303384d4e0c94a70e4c7
+    [orderNumber] => 15665_1712488063
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-07 11:07:45
+Wordpress version 6.5; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15665&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.5 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"ALEXANDR","payerLastName":"SALDAEV","postAddress":"\u0420\u043e\u0441\u0441\u0438\u044f, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430, 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [clientId] => 9e90fae22816303384d4e0c94a70e4c7
+    [orderNumber] => 15665_1712488065
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-07 11:07:46
+Wordpress version 6.5; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15665&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.5 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"ALEXANDR","payerLastName":"SALDAEV","postAddress":"\u0420\u043e\u0441\u0441\u0438\u044f, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430, 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [clientId] => 9e90fae22816303384d4e0c94a70e4c7
+    [orderNumber] => 15665_1712488066
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-07 11:07:46
+Wordpress version 6.5; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15665&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.5 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"ALEXANDR","payerLastName":"SALDAEV","postAddress":"\u0420\u043e\u0441\u0441\u0438\u044f, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430, 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [clientId] => 9e90fae22816303384d4e0c94a70e4c7
+    [orderNumber] => 15665_1712488066
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:01:35
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+[REQUEST]: https://alfa.rbsuat.com/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [amount] => 13949900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=16318&wc-callb=callback_function
+    [currency] => 
+    [jsonParams] => {"CMS":"Wordpress 6.5.2 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"underhood86@yanfex.ru","phone":"79224137850","payerFirstName":"\u041d\u0438\u043a\u043e\u043b\u0430\u0439","payerLastName":"\u041b\u044b\u0441\u043e\u043a\u043e\u043d\u044c","postAddress":"\u041a\u0440\u044b\u043b\u043e\u0432\u0430 26","payerCity":"\u041f\u0438\u0442\u0435\u0440","payerCountry":"RU"}
+    [clientId] => aab3c06cad0cf20944305de7fe2079b2
+    [orderNumber] => 16318_1713139295
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"Доступ запрещён"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:04:57
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+REQUEST: https://alfa.rbsuat.com/mportal/mvc/public/merchant/update/r-elektrodevice_ru
+[callback_addresses_string]: https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=callback
+[RESPONSE]: {"status":"FAIL","error":{"code":"bad_credentials","description":"bad credentials","message":"Access denied for user [r-elektrodevice_ru-api] with status [BAD_CREDENTIALS] to URL [/mportal/mvc/public/merchant/update/r-elektrodevice_ru]"}}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:05:35
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+[REQUEST]: https://alfa.rbsuat.com/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [amount] => 13949900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=16318&wc-callb=callback_function
+    [currency] => 
+    [jsonParams] => {"CMS":"Wordpress 6.5.2 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"underhood86@yanfex.ru","phone":"79224137850","payerFirstName":"\u041d\u0438\u043a\u043e\u043b\u0430\u0439","payerLastName":"\u041b\u044b\u0441\u043e\u043a\u043e\u043d\u044c","postAddress":"\u041a\u0440\u044b\u043b\u043e\u0432\u0430 26","payerCity":"\u041f\u0438\u0442\u0435\u0440","payerCountry":"RU"}
+    [clientId] => aab3c06cad0cf20944305de7fe2079b2
+    [orderNumber] => 16318_1713139535
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"Доступ запрещён"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:11:47
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+REQUEST: https://alfa.rbsuat.com/mportal/mvc/public/merchant/update/r-elektrodevice_ru
+[callback_addresses_string]: https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=callback
+[RESPONSE]: {"status":"FAIL","error":{"code":"bad_credentials","description":"bad credentials","message":"Access denied for user [r-elektrodevice_ru-api] with status [BAD_CREDENTIALS] to URL [/mportal/mvc/public/merchant/update/r-elektrodevice_ru]"}}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:12:00
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+[REQUEST]: https://alfa.rbsuat.com/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [amount] => 13949900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=16318&wc-callb=callback_function
+    [currency] => 
+    [jsonParams] => {"CMS":"Wordpress 6.5.2 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"underhood86@yanfex.ru","phone":"79224137850","payerFirstName":"\u041d\u0438\u043a\u043e\u043b\u0430\u0439","payerLastName":"\u041b\u044b\u0441\u043e\u043a\u043e\u043d\u044c","postAddress":"\u041a\u0440\u044b\u043b\u043e\u0432\u0430 26","payerCity":"\u041f\u0438\u0442\u0435\u0440","payerCountry":"RU"}
+    [clientId] => aab3c06cad0cf20944305de7fe2079b2
+    [orderNumber] => 16318_1713139920
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"Доступ запрещён"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:12:48
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+REQUEST: https://alfa.rbsuat.com/mportal/mvc/public/merchant/update/r-elektrodevice_ru
+[callback_addresses_string]: https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=callback
+[RESPONSE]: {"status":"FAIL","error":{"code":"bad_credentials","description":"bad credentials","message":"Access denied for user [r-elektrodevice_ru-api] with status [BAD_CREDENTIALS] to URL [/mportal/mvc/public/merchant/update/r-elektrodevice_ru]"}}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:13:50
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+[REQUEST]: https://alfa.rbsuat.com/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [amount] => 13949900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=16319&wc-callb=callback_function
+    [currency] => 
+    [jsonParams] => {"CMS":"Wordpress 6.5.2 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"underhood86@yanfex.ru","phone":"79224137850","payerFirstName":"\u041d\u0438\u043a\u043e\u043b\u0430\u0439","payerLastName":"\u041b\u044b\u0441\u043e\u043a\u043e\u043d\u044c","postAddress":"\u041a\u0440\u044b\u043b\u043e\u0432\u0430 26","payerCity":"\u041f\u0438\u0442\u0435\u0440","payerCountry":"RU"}
+    [clientId] => aab3c06cad0cf20944305de7fe2079b2
+    [orderNumber] => 16319_1713140029
+)
+
+[RESPONSE]: {"orderId":"04aa6cc6-1531-7e69-996c-06e002366363","formUrl":"https://alfa.rbsuat.com/payment/merchants/ecom2/payment_ru.html?mdOrder=04aa6cc6-1531-7e69-996c-06e002366363"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-15 00:14:17
+Wordpress version 6.5.2; Woocommerce version: 8.7.0
+[REQUEST RU]: https://alfa.rbsuat.com/payment/rest/getOrderStatusExtended.do: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [orderId] => 04aa6cc6-1531-7e69-996c-06e002366363
+)
+
+[RESPONSE]: {"errorCode":"0","errorMessage":"Успешно","orderNumber":"16319_1713140029","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":13949900,"currency":"810","date":1713140030077,"orderDescription":"","ip":"10.216.217.98","merchantOrderParams":[{"name":"postAddress","value":"Крылова 26"},{"name":"CMS","value":"Wordpress 6.5.2 + woocommerce version: 8.7.0"},{"name":"browser_os_param","value":"WINDOWS"},{"name":"payerCountry","value":"RU"},{"name":"browser_language_param","value":"ru"},{"name":"payerCity","value":"Питер"},{"name":"phone","value":"79224137850"},{"name":"payerFirstName","value":"Николай"},{"name":"Module-Version","value":"4.1.4"},{"name":"browser_version_param","value":"120.0.0.0"},{"name":"browser_name_param","value":"CHROME"},{"name":"user_agent","value":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36"},{"name":"payerLastName","value":"Лысоконь"},{"name":"email","value":"underhood86@yanfex.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"04aa6cc6-1531-7e69-996c-06e002366363"}],"cardAuthInfo":{"maskedPan":"411111**1111","expiration":"202412","cardholderName":"SUCCESS PAYMENT","approvalCode":"123456","paymentSystem":"VISA","pan":"411111**1111"},"authDateTime":1713140055918,"terminalId":"123456","authRefNum":"137460258276","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":13949900,"depositedAmount":13949900,"refundedAmount":0},"bankInfo":{"bankName":"Alfa-Bank","bankCountryCode":"SU","bankCountryName":"SU"},"chargeback":false}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-18 17:32:34
+Wordpress version 6.5.2; Woocommerce version: 8.8.2
+[REQUEST]: https://alfa.rbsuat.com/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [amount] => 9450000
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=16376&wc-callb=callback_function
+    [currency] => 
+    [jsonParams] => {"CMS":"Wordpress 6.5.2 + woocommerce version: 8.8.2","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"ALEXANDR","payerLastName":"SALDAEV","postAddress":"\u0420\u043e\u0441\u0441\u0438\u044f, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430, 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerCountry":"RU"}
+    [clientId] => 73c76b718e5196198e88462e252cdb0b
+    [orderNumber] => 16376_1713461554
+)
+
+[RESPONSE]: {"orderId":"04bcb393-4b7a-75c2-a0fe-ad8902366363","formUrl":"https://alfa.rbsuat.com/payment/merchants/ecom2/payment_ru.html?mdOrder=04bcb393-4b7a-75c2-a0fe-ad8902366363"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-19 12:21:07
+Wordpress version 6.5.2; Woocommerce version: 8.8.2
+[REQUEST]: https://alfa.rbsuat.com/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [amount] => 1099900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=16383&wc-callb=callback_function
+    [currency] => 
+    [jsonParams] => {"CMS":"Wordpress 6.5.2 + woocommerce version: 8.8.2","Module-Version":"4.1.4","email":"kritikant@mail.ru","phone":"89222222222","payerFirstName":"\u041d\u0438\u043a\u043e\u043b\u0430\u0439","payerLastName":"\u041b\u044b\u0441\u043e\u043a\u043e\u043d\u044c","postAddress":"\u043a\u0440\u044b\u043b\u043e\u0432\u0430","payerCity":"12","payerCountry":"RU"}
+    [clientId] => e5e14b0154a69f5e0310ee39224e90ed
+    [orderNumber] => 16383_1713529267
+)
+
+[RESPONSE]: {"orderId":"04c08ced-231d-7eb2-9ac8-4f8b02366363","formUrl":"https://alfa.rbsuat.com/payment/merchants/ecom2/payment_ru.html?mdOrder=04c08ced-231d-7eb2-9ac8-4f8b02366363"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-04-19 12:21:43
+Wordpress version 6.5.2; Woocommerce version: 8.8.2
+[REQUEST RU]: https://alfa.rbsuat.com/payment/rest/getOrderStatusExtended.do: Array
+(
+    [userName] => r-elektrodevice_ru-api
+    [password] => **removed from log**
+    [orderId] => 04c08ced-231d-7eb2-9ac8-4f8b02366363
+)
+
+[RESPONSE]: {"errorCode":"0","errorMessage":"Успешно","orderNumber":"16383_1713529267","orderStatus":2,"actionCode":0,"actionCodeDescription":"","amount":1099900,"currency":"810","date":1713529267677,"orderDescription":"","ip":"10.216.217.98","merchantOrderParams":[{"name":"postAddress","value":"крылова"},{"name":"CMS","value":"Wordpress 6.5.2 + woocommerce version: 8.8.2"},{"name":"browser_os_param","value":"MAC_OS_X"},{"name":"payerCountry","value":"RU"},{"name":"browser_language_param","value":"ru"},{"name":"payerCity","value":"12"},{"name":"phone","value":"89222222222"},{"name":"payerFirstName","value":"Николай"},{"name":"Module-Version","value":"4.1.4"},{"name":"browser_version_param","value":"17.4.1"},{"name":"browser_name_param","value":"SAFARI"},{"name":"user_agent","value":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15"},{"name":"payerLastName","value":"Лысоконь"},{"name":"email","value":"kritikant@mail.ru"}],"transactionAttributes":[],"attributes":[{"name":"mdOrder","value":"04c08ced-231d-7eb2-9ac8-4f8b02366363"}],"cardAuthInfo":{"maskedPan":"411111**1111","expiration":"202412","cardholderName":"SUCCESS PAYMENT","approvalCode":"123456","paymentSystem":"VISA","pan":"411111**1111"},"authDateTime":1713529302736,"terminalId":"123456","authRefNum":"239672177650","paymentAmountInfo":{"paymentState":"DEPOSITED","approvedAmount":1099900,"depositedAmount":1099900,"refundedAmount":0},"bankInfo":{"bankName":"Alfa-Bank","bankCountryCode":"SU","bankCountryName":"SU"},"chargeback":false}
+

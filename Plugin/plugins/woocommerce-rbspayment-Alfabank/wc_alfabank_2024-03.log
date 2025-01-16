@@ -1,0 +1,58 @@
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-03-30 17:27:56
+Wordpress version 6.4.3; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15611&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.4.3 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440","payerLastName":"\u0421\u0430\u043b\u0434\u0430\u0435\u0432","postAddress":"\u0412\u043e\u043b\u043a\u043e\u0432\u0430 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [orderNumber] => 15611_1711819676
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-03-30 17:28:41
+Wordpress version 6.4.3; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15612&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.4.3 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0441\u0449\u0441\u0448\u0441\u0449\u0441\u0449\u0441\u0449","payerLastName":"\u0421\u0430\u043b\u0434\u0430\u0435\u0432","postAddress":"\u0412\u043e\u043b\u043a\u043e\u0432\u0430 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [orderNumber] => 15612_1711819721
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Date: 2024-03-30 17:59:12
+Wordpress version 6.4.3; Woocommerce version: 8.7.0
+[REQUEST]: https://pay.alfabank.ru/payment/rest/register.do: 
+DATA: Array
+(
+    [userName] => 
+    [password] => **removed from log**
+    [amount] => 19900
+    [returnUrl] => https://mytestsite86.ru?wc-api=WC_RBSPayment_Alfabank&alfabank=result&order_id=15613&wc-callb=callback_function
+    [currency] => 840
+    [jsonParams] => {"CMS":"Wordpress 6.4.3 + woocommerce version: 8.7.0","Module-Version":"4.1.4","email":"saldaevplatinum@gmail.com","phone":"79001277507","payerFirstName":"ALEXANDR","payerLastName":"SALDAEV","postAddress":"\u0420\u043e\u0441\u0441\u0438\u044f, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043a\u043e\u0432\u0430, 17\/1","payerCity":"\u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443","payerState":"\u0420\u043e\u0441\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c","payerPostalCode":"344092","payerCountry":"RU"}
+    [clientId] => 9e90fae22816303384d4e0c94a70e4c7
+    [orderNumber] => 15613_1711821552
+)
+
+[RESPONSE]: {"errorCode":"5","errorMessage":"[userName] или [password] или [token] не задан"}
+
